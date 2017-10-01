@@ -1,0 +1,5 @@
+<apex:page id="Page" showHeader="false" controller="LeadConfirmationController" action="{!InitPage}" cache="false">
+    <apex:form >
+        Thank you for your response.
+    </apex:form>
+</apex:page>
